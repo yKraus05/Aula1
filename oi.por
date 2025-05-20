@@ -10,7 +10,7 @@ programa
 		escreva("Boa tarde ",nome)
                 escreva("Qual a sua idade?)
                 leia(idade)
-                escreva("Olá, ",nome," você tem ",idade,"anos")
+                escreva("Olá, ",nome," você tem ",idade," anos")
 	}
 }
 /* $$$ Portugol Studio $$$ 
